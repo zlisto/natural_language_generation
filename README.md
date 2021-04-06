@@ -1,2 +1,2 @@
-# natural_language_generation
+# Natural Language Generation
 Use transformers to generate natural language
