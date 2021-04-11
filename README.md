@@ -7,5 +7,5 @@ Lecture 20 Notebooks:
 
 BigGAN:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zlisto/natural_language_generation/blob/main/BigGAN_TF_Hub_Demo.ipynb){:target="_blank"}
 
-StyleGAN:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/zlisto/natural_language_generation/blob/main/Fake_Faces_with_StyleGAN2.ipynb)
+StyleGAN:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zlisto/natural_language_generation/blob/main/Fake_Faces_with_StyleGAN2.ipynb)
 
