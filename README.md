@@ -1,9 +1,12 @@
-# Natural Language Generation
-Use transformers to generate natural language
+# Natural Language and Image Generation
+Use transformers to generate natural language and use GANs to generate natural images.
 
-Lecture 19 Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zlisto/natural_language_generation/blob/main/Lecture%2019%20-%20Natural%20Language%20Generation.ipynb)
 
-Lecture 20 Notebooks:
+# Natural Language Generation:
+GPT-2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zlisto/natural_language_generation/blob/main/Lecture%2019%20-%20Natural%20Language%20Generation.ipynb)
+
+
+# Natural Image Generation:
 
 BigGAN:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zlisto/natural_language_generation/blob/main/BigGAN_TF_Hub_Demo.ipynb)
 
